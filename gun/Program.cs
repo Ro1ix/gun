@@ -40,6 +40,7 @@ namespace gun
                         x = Math.Round(x0 + Vx0 * t, 2);
                         y = 0;
                         Console.WriteLine($"\nx = {x}\ny = {y}");
+                        // Изменение
                     }
                 }
             }
