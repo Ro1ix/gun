@@ -1,8 +1,8 @@
-C:\Users\Class_Student\Desktop\gun\gun\bin\Debug\gun.exe.config
-C:\Users\Class_Student\Desktop\gun\gun\bin\Debug\gun.exe
-C:\Users\Class_Student\Desktop\gun\gun\bin\Debug\gun.pdb
-C:\Users\Class_Student\Desktop\gun\gun\obj\Debug\gun.csproj.AssemblyReference.cache
-C:\Users\Class_Student\Desktop\gun\gun\obj\Debug\gun.csproj.SuggestedBindingRedirects.cache
-C:\Users\Class_Student\Desktop\gun\gun\obj\Debug\gun.csproj.CoreCompileInputs.cache
-C:\Users\Class_Student\Desktop\gun\gun\obj\Debug\gun.exe
-C:\Users\Class_Student\Desktop\gun\gun\obj\Debug\gun.pdb
+C:\Users\Student-46-2021\Desktop\gun\bin\Debug\gun.exe.config
+C:\Users\Student-46-2021\Desktop\gun\bin\Debug\gun.exe
+C:\Users\Student-46-2021\Desktop\gun\bin\Debug\gun.pdb
+C:\Users\Student-46-2021\Desktop\gun\obj\Debug\gun.csproj.AssemblyReference.cache
+C:\Users\Student-46-2021\Desktop\gun\obj\Debug\gun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student-46-2021\Desktop\gun\obj\Debug\gun.csproj.CoreCompileInputs.cache
+C:\Users\Student-46-2021\Desktop\gun\obj\Debug\gun.exe
+C:\Users\Student-46-2021\Desktop\gun\obj\Debug\gun.pdb
